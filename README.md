@@ -125,6 +125,10 @@ http://localhost:8000/docs
 1. Initially considered allowing any user-defined interest as a string.
 2. Realized that string-based matching is computationally expensive.
 3. Inspired by platforms like Shaadi.com, adopted predefined interests.
+![image](https://github.com/user-attachments/assets/76f81f3b-b555-408e-9838-5b429ef301bf)
+![image](https://github.com/user-attachments/assets/c75619ad-e530-4104-8e2b-29cf68ea5b96)
+
+
 
 ### Optimized Storage: Bitmask Representation
 1. Storing all interests in a database is inefficient.
