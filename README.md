@@ -160,4 +160,4 @@ http://localhost:8000/docs
 2. Future implementation can leverage event-driven architecture for real-time updates.
 
 ## Conclusion
-The current implementation provides an efficient, scalable matchmaking system. Future improvements, including Redis caching and Kafka-based processing, will further enhance performance and scalability.
+The current implementation provides an efficient, scalable matchmaking system. Future improvements, including Redis caching for matches and Kafka-based processing, will further enhance performance and scalability.
